@@ -1,0 +1,46 @@
+
+body{
+font-family:sans-serif;
+font-size:larger;
+background-image:url('..//images/car.jpg');
+background-size:cover;
+background-repeat:no-repeat;
+}
+td{
+padding:10px
+}
+table{
+width:50%;
+background-color:white;
+border-radius:5px;
+padding:20px;
+
+}
+#btn{
+background-color:#4e9ad7;
+width:100%;
+border:10px;
+border-radius:10px;
+padding:15px;
+color:white;
+font-size:16px;
+cursor:pointer;
+}
+#btn:hover{
+background-color:#2680c9;
+}
+input[type=text]{
+padding:8px 0px;
+border:1px solid #ccc;
+border-radius:4px;
+margin:8px 0px;
+}
+h1,p{
+background-color:#f2f2f2;
+width:50%;
+padding:5px;
+border-radius:5px;
+}
+form{
+padding:10px;
+}
