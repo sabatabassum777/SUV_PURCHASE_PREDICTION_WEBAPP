@@ -20,7 +20,7 @@ pytz
 scikit-learn
 scipy
 six
-sklearn
+scikit-learn
 sklearn-pandas
 threadpoolctl
 tzdata
